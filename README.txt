@@ -7,7 +7,7 @@ This is an experimental firmware for the M5StickC / M5StickC Plus based on ESP32
 How to Install
 --------------------------------------------------
 1. Download the SeekerOS-v0.1-beta.bin file from:
-   https://yourwebsite.com/SeekerOS-v0.1-beta.bin
+   https://seeker-firmware.vercel.app/SeekerOS-v0.1-beta.bin
 
 2. Open M5Burner (Windows, macOS, Linux available from:
    https://docs.m5stack.com/en/download)
@@ -46,3 +46,4 @@ Support
 --------------------------------------------------
 For feedback or bug reports, please visit:
 https://yourwebsite.com/seekeros
+
