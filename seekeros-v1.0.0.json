@@ -1,0 +1,9 @@
+{
+  "name": "SeekerOS",
+  "version": "1.0.0",
+  "url": "https://seeker-firmware/firmware/seekeros-v1.0.0.bin",
+  "description": "Lightweight, powerful firmware for ESP32 boards.",
+  "author": "YourName",
+  "category": "Tools",
+  "platform": "M5StickC"
+}
